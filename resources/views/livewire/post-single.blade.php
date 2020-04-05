@@ -6,6 +6,5 @@
 
         {{ $post->body }}
     </div>
-
-    hello
+    <button class="btn btn-danger" wire:click="deletePost">x</button>
 </div>
