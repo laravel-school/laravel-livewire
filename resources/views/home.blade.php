@@ -8,7 +8,7 @@
                 <div class="card-header">Dashboard</div>
 
                 <div class="card-body">
-                    <livewire:hello />
+                    <livewire:post-index />
                 </div>
             </div>
         </div>
